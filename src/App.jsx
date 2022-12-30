@@ -1,7 +1,10 @@
-function App() {
+import { API_URL } from "../env"
 
+function App() {
   return (
-    <h2>App</h2>
+    <div>
+       <h2>App {API_URL}</h2>
+    </div>
   )
 }
 
