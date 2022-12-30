@@ -1,3 +1,6 @@
+import Logo from "../molecules/Logo"
+import MainMenu from "../molecules/MainMenu"
+
 const MainHeader = () => {
   return (
     <div>
